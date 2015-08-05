@@ -25,16 +25,3 @@ class String
     end
   end
 end
-
-# end
-    # total = 0
-    # answers.each() do |answers|
-    #   answer_value = answers.fetch(answers)
-    #   if answer
-    # end
-
-
-# user = self
-# computer = ["rock", "paper", "scissors"]
-# computer_play = computer.sample
-# computer_play.push = []
